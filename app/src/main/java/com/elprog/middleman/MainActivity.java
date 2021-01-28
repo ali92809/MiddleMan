@@ -167,7 +167,6 @@ Socket clint;
 
             sendMessage(struser);
 
-            Toast.makeText(context, "Intent Detected."+struser, Toast.LENGTH_LONG).show();
 
 
         }
